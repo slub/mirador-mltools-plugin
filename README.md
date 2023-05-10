@@ -1,8 +1,6 @@
 # mirador-mltools-plugin
 
-[![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
-[![Coveralls][coveralls-badge]][coveralls]
 
 `mirador-mltools-plugin` is a [Mirador 3](https://github.com/projectmirador/mirador) plugin that adds tools to the manifest list displayed when `isWorkspaceAddVisible = true`. Users can remove an added manifest from the viewer by pressing the `Remove resource` button. Another feature is to open and close a manifest in the gallery view without switching views. 
 ## Installing `mirador-mltools-plugin`
@@ -19,11 +17,5 @@ The aim of NFDI4Culture is to establish a demand-oriented infrastructure for res
 [![Twitter](https://img.shields.io/twitter/follow/nfdi4culture?style=social)](https://twitter.com/nfdi4culture)
 
 
-[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
-[build]: https://travis-ci.org/user/repo
-
 [npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
 [npm]: https://www.npmjs.org/package/npm-package
-
-[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/user/repo
