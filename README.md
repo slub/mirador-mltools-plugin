@@ -4,7 +4,7 @@
 
 `mirador-mltools-plugin` is a [Mirador 3](https://github.com/projectmirador/mirador) plugin that adds tools to the manifest list displayed when `isWorkspaceAddVisible = true`. Users can remove an added manifest from the viewer by pressing the `Remove resource` button. Another feature is to open and close a manifest in the gallery view without switching views. 
 ## Installing `mirador-mltools-plugin`
-`mirador-mltools-plugin` requires an instance of Mirador 3. This package is not part of the `npmjs registry`, so to install the package run `npm i https://github.com/slub/mirador-mltools-plugin`. See the [Mirador wiki](https://github.com/ProjectMirador/mirador/wiki) for examples of embedding Mirador within an application. See the [demo's index.js](https://github.com/slub/mirador-mltools-plugin/blob/main/demo/src/index.js) for an example of importing the `mirador-mltools-plugin`.
+`mirador-mltools-plugin` requires an instance of Mirador 3. See the [Mirador wiki](https://github.com/ProjectMirador/mirador/wiki) for examples of embedding Mirador within an application. See the [demo's index.js](https://github.com/slub/mirador-mltools-plugin/blob/main/demo/src/index.js) for an example of importing the `mirador-mltools-plugin`.
 
 ## Credits
 ### NFDI4Culture
